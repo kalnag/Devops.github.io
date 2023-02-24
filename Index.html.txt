@@ -6,5 +6,11 @@
   <body>
     <h1>Hello World</h1>
     <p>Welcome to my GitHub webpage!</p>
+    <p>Here are some things I'm working on:</p>
+    <ul>
+        <li>Happy coding</1i>
+        <li>Software Product sprint</li>
+        <li>Google Maps</li>
+    </ul>
   </body>
 </html>
