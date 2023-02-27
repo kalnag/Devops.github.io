@@ -2,9 +2,12 @@
 <html>
   <head>
     <title>My GitHub pages site</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
   <body>
+   <div class="content">
     <h1>Hello World</h1>
+    <p><img src="rose.jpg" /> </p>
     <p>Welcome to my GitHub webpage!</p>
     <p>Here are some things I'm working on:</p>
     <ul>
@@ -12,5 +15,6 @@
         <li>Software Product sprint</li>
         <li>Google Maps</li>
     </ul>
+   </div>
   </body>
 </html>
